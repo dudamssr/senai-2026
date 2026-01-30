@@ -5,8 +5,9 @@ git clone https://github.com/dudamssr/senai-2026.git
 git add . //Verifica arquivos alterados
 git commit -m "Adicionar o comentário do que foi feito" //Verifica as alterações nos arquivos
 git push //Envia as alterações para a nuvem
-
 //Atualizar Repositório local 
 git pull
+
+//Criação de Branchs
 
 
